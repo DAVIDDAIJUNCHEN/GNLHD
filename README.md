@@ -191,7 +191,9 @@ This package is free and open source software, licensed under GPL-3.
 ## References
 
 ```s
-Daijun Chen and Shifeng Xiong, Generalized Nested Latin Hypercube Design and Its Optimization.
+(1) Chen, D., & Xiong, S. (2017). Flexible nested Latin hypercube designs for computer experiments. Journal of Quality Technology, 49(4), 337-353.
+
+(2) 陈代君, & 熊世峰. (2017). 嵌套拉丁超立方设计的优化. 系统科学与数学, 37(1), 53-65.
 ```
 
 ## TODO
