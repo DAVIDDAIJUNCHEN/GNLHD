@@ -6,7 +6,7 @@ This package is for below two papers:
 
 (2) 陈代君, & 熊世峰. (2017). 嵌套拉丁超立方设计的优化. 系统科学与数学, 37(1), 53-65.
 
-The package **GNLHD**. This package provides constructions for LHD, NLHD and FNLHD in R. The package  mainly includes
+This package provides constructions for LHD, NLHD and FNLHD in R. The package  mainly includes
 construction for FNLHD, which is a kind of new design originated from LHD, and two types of algrorithms to optimizing
 both NLHDs and FNLHDS. Currently, the R package can be only run on **Windows** platform. More details can be found in a above papers.
 
