@@ -8,7 +8,7 @@ This package is for below two papers:
 
 This package provides constructions for LHD, NLHD and FNLHD in R. The package  mainly includes
 construction for FNLHD, which is a kind of new design originated from LHD, and two types of algrorithms to optimizing
-both NLHDs and FNLHDS. Currently, the R package can be only run on **Windows** platform. More details can be found in a above papers.
+both NLHDs and FNLHDS. Currently. The R package can be only run on **Windows** platform. More details can be found in a above papers.
 
 ## Installation
 You can also install the development version from Github, which provides daily build of
