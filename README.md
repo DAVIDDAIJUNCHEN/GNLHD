@@ -11,7 +11,7 @@ construction for GNLHD, which is a kind of new design originated from LHD, and t
 GNLHDs. Currently, the R package can be only run on **Windows** platform. More details will be found in a coming paper,
 Generalized Nested Latin Hypercube Design And Its Optimization written by Daijun Chen and Shifeng Xiong.
 
-##Installation
+## Installation
 You can also install the development version from Github, which provides daily build of
 GNLHD:
 
@@ -31,7 +31,7 @@ R CMD BUILD GNLHD
 R CMD INSTALL GNLHD_*.tar.gz
 ```
 
-#Usage
+## Usage
 Part 1: Construction for GNLHD and some useful functions
 ```s
 >library(GNLHD)
