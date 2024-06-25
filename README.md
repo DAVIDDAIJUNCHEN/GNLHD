@@ -1,5 +1,5 @@
 # GNLHD
-
+## Introduction
 This package is for below two papers:
 
 (1) Chen, D., & Xiong, S. (2017). Flexible nested Latin hypercube designs for computer experiments. Journal of Quality Technology, 49(4), 337-353.
@@ -10,6 +10,7 @@ The package **GNLHD**. This package provides constructions for LHD, NLHD and GNL
 construction for GNLHD, which is a kind of new design originated from LHD, and two types of algrorithms to optimizing
 GNLHDs. Currently, the R package can be only run on **Windows** platform. More details will be found in a coming paper,
 Generalized Nested Latin Hypercube Design And Its Optimization written by Daijun Chen and Shifeng Xiong.
+
 ##Installation
 You can also install the development version from Github, which provides daily build of
 GNLHD:
