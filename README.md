@@ -1,8 +1,10 @@
 # GNLHD
 
 This package is for below two papers:
-Chen, D., & Xiong, S. (2017). Flexible nested Latin hypercube designs for computer experiments. Journal of Quality Technology, 49(4), 337-353.
-陈代君, & 熊世峰. (2017). 嵌套拉丁超立方设计的优化. 系统科学与数学, 37(1), 53-65.
+
+(1) Chen, D., & Xiong, S. (2017). Flexible nested Latin hypercube designs for computer experiments. Journal of Quality Technology, 49(4), 337-353.
+
+(2) 陈代君, & 熊世峰. (2017). 嵌套拉丁超立方设计的优化. 系统科学与数学, 37(1), 53-65.
 
 The package **GNLHD**. This package provides constructions for LHD, NLHD and GNLHD in R. The package  mainly includes
 construction for GNLHD, which is a kind of new design originated from LHD, and two types of algrorithms to optimizing
